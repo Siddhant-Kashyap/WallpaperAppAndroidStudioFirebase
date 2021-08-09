@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.developersiddhantkashyap.craftywallpaper">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CraftyWallpaper">
+        <activity android:name=".WinterFullImage"></activity>
+        <activity android:name=".WinterCategory" />
+        <activity android:name=".VectorFullImage" />
+        <activity android:name=".VectorCategory" />
+        <activity android:name=".TechFullImage" />
+        <activity android:name=".TechCategory" />
+        <activity android:name=".SpaceFullImage" />
+        <activity android:name=".SpaceCategory" />
+        <activity android:name=".NeonFullImage" />
+        <activity android:name=".NeonCategory" />
+        <activity android:name=".NatureFullImage" />
+        <activity android:name=".NatureCategory" />
+        <activity android:name=".MotivationFullImage" />
+        <activity android:name=".MotivationCategory" />
+        <activity android:name=".MinimalFullImage" />
+        <activity android:name=".MinimalCategory" />
+        <activity android:name=".LoveFullImage" />
+        <activity android:name=".LoveCategory" />
+        <activity android:name=".GirlsFullImage" />
+        <activity android:name=".GirlsCategory" />
+        <activity android:name=".FoodFullImage" />
+        <activity android:name=".FoodCategory" />
+        <activity android:name=".FlowerFullImage" />
+        <activity android:name=".FlowerCategory" />
+        <activity android:name=".FantasyFullImage" />
+        <activity android:name=".FantasyCategory" />
+        <activity android:name=".DarkFullImage" />
+        <activity android:name=".DarkCategory" />
+        <activity android:name=".CityFullImage" />
+        <activity android:name=".CityCategory" />
+        <activity android:name=".CarsFullImage" />
+        <activity android:name=".CarsCategory" />
+        <activity android:name=".BikeFullImage" />
+        <activity android:name=".BikeCategory" />
+        <activity android:name=".BoysFullImge" />
+        <activity android:name=".BoysCategory" />
+        <activity android:name=".AnimeFullImage" />
+        <activity android:name=".AnimeCategory" />
+        <activity android:name=".AnimalFullImage" />
+        <activity android:name=".AnimalCategory" />
+        <activity android:name=".AloneFullImage" />
+        <activity android:name=".AloneCategory" />
+        <activity android:name=".FeaturedFullImage" />
+        <activity android:name=".PremiumFullImage" />
+        <activity android:name=".NewArrivalFullImage" />
+        <activity android:name=".FullImageActivity" />
+        <activity android:name=".AbstractCategory" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4864570840476809~7755007373"/>
+
+    </application>
+
+</manifest>

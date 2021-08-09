@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/subscribe"
+        android:title="Subscription"
+        android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/Follow"
+        android:icon="@drawable/ic_baseline_3d_rotation_24"
+        android:title="Follow"/>
+    <item android:id="@+id/Support"
+        android:icon="@drawable/ic_baseline_support_agent_24"
+        android:title="AnySupport Mail Us"/>
+
+
+    <item android:id="@+id/Category"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="Catagories"/>
+    <item android:id="@+id/AbstractCategory"
+        android:title="Abstract"/>
+    <item android:id="@+id/AloneCategory"
+        android:title="Alone"/>
+    <item android:id="@+id/AnimalCategory"
+        android:title="Animals"/>
+    <item android:id="@+id/AnimeCategory"
+        android:title="Anime"/>
+    <item android:id="@+id/BoysCategory"
+        android:title="Boys"/>
+    <item android:id="@+id/BikeCategory"
+        android:title="Bikes"/>
+    <item android:id="@+id/CarCategory"
+        android:title="Cars"/>
+    <item android:id="@+id/CityscapeCategory"
+        android:title="Cityscape"/>
+    <item android:id="@+id/DarkCategory"
+        android:title="Dark"/>
+    <item android:id="@+id/FantasyCategory"
+        android:title="Fantasy"/>
+    <item android:id="@+id/FlowerCategory"
+        android:title="Flowers"/>
+    <item android:id="@+id/FoodCategory"
+        android:title="Food"/>
+    <item android:id="@+id/GirlsCategory"
+        android:title="Girls"/>
+    <item android:id="@+id/LoveCategory"
+        android:title="Love"/>
+    <item android:id="@+id/MinimalismCategory"
+        android:title="Minimalism"/>
+    <item android:id="@+id/MotivationCategory"
+        android:title="Motivation"/>
+    <item android:id="@+id/NatureCategory"
+        android:title="Nature"/>
+    <item android:id="@+id/NeonCategory"
+        android:title="Neon"/>
+    <item android:id="@+id/SpaceCategory"
+        android:title="Space"/>
+    <item android:id="@+id/TechCategory"
+        android:title="Technologies"/>
+    <item android:id="@+id/VectorCategory"
+        android:title="Vector"/>
+    <item android:id="@+id/WinterCategory"
+        android:title="Winter"/>
+
+
+</menu>

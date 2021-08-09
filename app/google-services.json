@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938489881072",
+    "project_id": "wallpaper-40599",
+    "storage_bucket": "wallpaper-40599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938489881072:android:34e72b383ae4534aa37d35",
+        "android_client_info": {
+          "package_name": "com.developersiddhantkashyap.craftywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938489881072-t1qgpedsn5dloiofpacn94nv4farju46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr31CL9EGL_ue29D69EKaaAFmYYPimwZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938489881072-t1qgpedsn5dloiofpacn94nv4farju46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
